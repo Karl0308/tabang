@@ -1,0 +1,22 @@
+<svg id="Component_106_2" data-name="Component 106 – 2" xmlns="http://www.w3.org/2000/svg" width="356" height="158" viewBox="0 0 356 158">
+  <g id="Rectangle_171" data-name="Rectangle 171" fill="#fff" stroke="#b8c0c7" stroke-width="1">
+    <rect width="356" height="158" rx="10" stroke="none"/>
+    <rect x="0.5" y="0.5" width="355" height="157" rx="9.5" fill="none"/>
+  </g>
+  <g id="Component_100_1" data-name="Component 100 – 1" transform="translate(4.61 42)">
+    <path id="Path_166" data-name="Path 166" d="M0,0H346.858V36H0Z" fill="#fff9a4" opacity="0"/>
+    <text id="Room_213" data-name="Room 213" transform="translate(13.429 9)" fill="#f5a314" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="15">Open</tspan></text>
+  </g>
+  <g id="Component_100_5" data-name="Component 100 – 5" transform="translate(4.571 79)">
+    <path id="Path_166-2" data-name="Path 166" d="M0,0H346.858V36H0Z" fill="#ffd7d7" opacity="0"/>
+    <text id="Room_213-2" data-name="Room 213" transform="translate(13.429 9)" fill="red" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="15">On Hold</tspan></text>
+  </g>
+  <g id="Component_100_4" data-name="Component 100 – 4" transform="translate(4.571 115)">
+    <path id="Path_166-3" data-name="Path 166" d="M0,0H346.858V36H0Z" fill="#d1ffd1" opacity="0"/>
+    <text id="Room_213-3" data-name="Room 213" transform="translate(14.429 8.5)" fill="#10b981" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="15">Done</tspan></text>
+  </g>
+  <g id="Component_100_6" data-name="Component 100 – 6" transform="translate(4.61 6)">
+    <path id="Path_166-4" data-name="Path 166" d="M0,0H346.858V36H0Z" fill="#e4f0fa" opacity="0"/>
+    <text id="Room_213-4" data-name="Room 213" transform="translate(13.429 9)" fill="#67a8e3" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.03em"><tspan x="0" y="15">In Progress</tspan></text>
+  </g>
+</svg>

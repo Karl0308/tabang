@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="382.079" height="489.24" viewBox="0 0 382.079 489.24">
+  <g id="Group_733" data-name="Group 733" transform="translate(-704 -194)">
+    <path id="Path_58" data-name="Path 58" d="M0,0H382.079V489.24H0Z" transform="translate(704 194)" fill="#fff"/>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="44" height="44" transform="translate(716 206.5)" fill="#fff"/>
+    <rect id="Rectangle_57" data-name="Rectangle 57" width="357" height="143" rx="8" transform="translate(717 387.5)" fill="#fff" stroke="#b8c0c7" stroke-width="1"/>
+    <rect id="Rectangle_147" data-name="Rectangle 147" width="357" height="28" rx="8" transform="translate(717 570.5)" fill="#fff" stroke="#b8c0c7" stroke-width="1"/>
+    <text id="Ticket_ID:_000068" data-name="Ticket ID: 
+000068" transform="translate(722 250.5)" fill="#223e58" font-size="12" font-family="Manrope" font-weight="700"><tspan x="0" y="13">Ticket ID: </tspan><tspan font-weight="500"><tspan x="0" y="30">000068</tspan></tspan></text>
+    <text id="Title:_" data-name="Title: 
+" transform="translate(722 364.5)" fill="#223e58" font-size="12" font-family="Manrope" font-weight="700"><tspan x="0" y="13">Title: </tspan><tspan x="0" y="30"></tspan></text>
+    <text id="Status:_" data-name="Status:
+" transform="translate(722 547.5)" fill="#223e58" font-size="12" font-family="Manrope" font-weight="700"><tspan x="0" y="13">Status:</tspan><tspan x="0" y="30"></tspan></text>
+    <text id="Called_IN:_07_16_2023_10:12:15_am" data-name="Called IN: 
+07/16/2023 10:12:15 am" transform="translate(722 307.5)" fill="#223e58" font-size="12" font-family="Manrope" font-weight="700"><tspan x="0" y="13">Called IN: </tspan><tspan font-weight="500"><tspan x="0" y="30">07/16/2023 10:12:15 am</tspan></tspan></text>
+    <text id="_" data-name="  " transform="translate(986 370.5)" fill="#707f8e" font-size="12" font-family="Manrope" font-weight="500"><tspan x="0" y="13" xml:space="preserve">  </tspan></text>
+    <g id="Group_734" data-name="Group 734" transform="translate(51 233)">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="78" height="38" rx="8" transform="translate(856 391.5)" fill="#f43030"/>
+      <rect id="Rectangle_172" data-name="Rectangle 172" width="78" height="38" rx="8" transform="translate(945 391.5)" fill="#3b82f6"/>
+      <text id="Cancel" transform="translate(872 402)" fill="#fff" font-size="12" font-family="Manrope" font-weight="700" letter-spacing="0.01em"><tspan x="0" y="13">Cancel</tspan></text>
+      <text id="Save" transform="translate(969 402)" fill="#fff" font-size="12" font-family="Manrope" font-weight="700" letter-spacing="0.01em"><tspan x="0" y="13">Save</tspan></text>
+    </g>
+    <text id="Ticket_List" data-name="Ticket List" transform="translate(720 211.5)" fill="red" font-size="18" font-family="SFProDisplay-Medium, SF Pro Display" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="17">Ticket List</tspan></text>
+    <path id="back" d="M311.59,79.59,307,84.17l-4.59-4.58L301,81l6,6,6-6Z" transform="translate(745 500.825)" fill="#3d556b" fill-rule="evenodd"/>
+  </g>
+</svg>

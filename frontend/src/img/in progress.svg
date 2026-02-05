@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103.94" height="25" viewBox="0 0 103.94 25">
+  <g id="Group_685" data-name="Group 685" transform="translate(-967 -203)">
+    <path id="Path_173" data-name="Path 173" d="M10.9,0H93.038c6.021,0,10.9,5.6,10.9,12.5S99.059,25,93.038,25H10.9C4.881,25,0,19.4,0,12.5S4.881,0,10.9,0Z" transform="translate(967 203)" fill="#c9eaff"/>
+    <text id="In_Progress" data-name="In Progress" transform="translate(990.724 208.506)" fill="#3b82f6" font-size="12" font-family="SFProDisplay-Bold, SF Pro Display" font-weight="700" letter-spacing="0.065em"><tspan x="0" y="11">In Progress</tspan></text>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(975 210.506)" fill="#3b82f6"/>
+  </g>
+</svg>

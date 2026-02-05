@@ -1,0 +1,226 @@
+.darkBG {
+  background-color: rgba(0, 0, 0, 0.2);
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+
+.copybutton>* {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  font-size: 18px;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.modal {
+  width: 552px;
+  height: 349px;
+  background: white;
+  color: white;
+  z-index: 10;
+  border-radius: 16px;
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
+}
+
+.modalHeader {
+  height: auto;
+  background: white;
+  overflow: hidden;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  padding-top: 63px;
+}
+
+.heading {
+  margin: 0;
+  padding: 10px;
+  color: #2c3e50;
+  font-weight: 500;
+  font-size: 25px;
+  text-align: center;
+}
+.logo {
+
+}
+
+.modalContent {
+  padding-top: 5px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: "SF Pro Display";
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 1.3px;
+  color: #FF0000;
+}
+
+.modalContent2 {
+  text-align: center;
+  font-family: "SF Pro Display";
+  font-size: 14px;
+  letter-spacing: 1.3px;
+  color: black;
+}
+
+.modalActions {
+  position: absolute;
+  bottom: 2px;
+  margin-bottom: 30px;
+  width: 100%;
+}
+
+.actionsContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.closeBtn {
+  cursor: pointer;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 16px;
+  border: none;
+  font-size: 18px;
+  color: #2c3e50;
+  background: white;
+  transition: all 0.25s ease;
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.06);
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  align-self: flex-end;
+  margin-top: -7px;
+  margin-right: -7px;
+}
+
+.closeBtn:hover {
+  box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
+  transform: translate(-4px, 4px);
+}
+
+.deleteBtn {
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  padding: 11px 28px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  border: none;
+  color: #fff;
+  background: #ff3e4e;
+  transition: all 0.25s ease;
+}
+
+.deleteBtn:hover {
+  box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
+  transform: translateY(-5px);
+  background: #ff3e4e;
+}
+
+
+
+.okayBtn {
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  padding: 11px 28px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  border: none;
+  color: #fff;
+  background: green;
+  transition: all 0.25s ease;
+}
+
+.okayBtn:hover {
+  box-shadow: 0 10px 20px -10px rgba(255, 62, 78, 0.6);
+  transform: translateY(-5px);
+  background: green;
+}
+
+.cancelBtn {
+  /* margin-top: 10px; */
+  cursor: pointer;
+  /* font-weight: 500;
+    padding: 11px 28px;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    border: none;
+    color: white;
+    background: gray;
+    transition: all 0.25s ease; */
+
+
+  width: 212px;
+  height: 46px;
+  background: #FF0000 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border: none;
+  border-radius: 5px;
+  font-family: 'SF Pro Display';
+  font-size: 17px;
+  color: white;
+}
+
+.cancelBtn:hover {
+  box-shadow: none;
+  transform: none;
+  /* background: rgb(65, 65, 243); */
+}
+.linkurl{
+ font-size:16px;
+  margin-left:30px;
+}
+
+@media (max-width: 600px) {
+  .modal {
+    width: 302px;
+    height: 319px;
+    background: white;
+    color: white;
+    z-index: 10;
+    border-radius: 16px;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, 0.04);
+  }
+
+  .copybutton>* {
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    font-size: 4vw;
+  }
+  .linkurl{
+    font-size: 2.5vw;
+    margin-left:30px;
+  }
+  .logo{
+    height: 60px;
+  }
+  .modalContent2 {
+    font-size: 10px;
+  }
+  .cancelBtn {
+    cursor: pointer;
+    width: 122px;
+    height: auto;
+    background: #FF0000 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    color: white;
+  }
+
+}

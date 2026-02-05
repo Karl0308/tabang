@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68.825" height="25" viewBox="0 0 68.825 25">
+       <style>
+        @import url("https://fonts.cdnfonts.com/css/sf-pro-display");
+  </style>
+  <g id="Group_687" data-name="Group 687" transform="translate(-969 -291)">
+    <path id="Path_176" data-name="Path 176" d="M11.866,0H56.959c6.554,0,11.866,5.6,11.866,12.5S63.513,25,56.959,25H11.866C5.313,25,0,19.4,0,12.5S5.313,0,11.866,0Z" transform="translate(969 291)" fill="#fff9a4"/>
+    <text id="Open" transform="translate(992 297)" fill="#f59e0b" font-size="12" font-family="SF Pro Display" font-weight="700" letter-spacing="0.065em"><tspan x="0" y="11">Open</tspan></text>
+    <circle id="Ellipse_3" data-name="Ellipse 3" cx="5" cy="5" r="5" transform="translate(977 299)" fill="#f59e0b"/>
+  </g>
+</svg>

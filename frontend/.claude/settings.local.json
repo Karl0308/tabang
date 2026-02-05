@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(while read file)",
+      "Bash(do sed -i 's/window\\\\.location\\\\.reload\\(\\)/window.location.href = window.location.href/g' \"$file\")",
+      "Bash(npm install)",
+      "Bash(npm start)"
+    ]
+  }
+}

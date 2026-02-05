@@ -1,0 +1,33 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  body {
+    font-family: 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  }
+}
+/* react-datetime-dark.css */
+.dark .rdtPicker {
+  background-color: #1f2937; /* Tailwind's gray-800 */
+  color: #ffffff;
+  border: 1px solid #4b5563; /* gray-600 */
+}
+
+.dark .rdtPicker th,
+.dark .rdtPicker td,
+.dark .rdtPicker .rdtTimeToggle {
+  color: #ffffff;
+}
+
+.dark .rdtPicker td.rdtActive,
+.dark .rdtPicker td.rdtToday {
+  background-color: #3b82f6; /* blue-500 */
+  color: white;
+}
+
+.dark .rdtPicker .rdtDay:hover {
+  background-color: #4b5563; /* gray-600 */
+  color: white;
+}
+

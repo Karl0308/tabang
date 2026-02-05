@@ -1,0 +1,77 @@
+.drawer {
+    width: 200px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: -300px;
+    transition: left 0.3s ease-in-out;
+    background-color: #fff;
+    z-index: 10;
+    box-shadow: 5px 0 50px -5px #333;
+}
+
+.drawer.open {
+    left: 0;
+}
+
+.toggle-button {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.drawer-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    padding-top: 20px;
+}
+
+.drawer-content ul {
+    list-style: none;
+    padding: 0;
+    /* margin-top: -500px; */
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.drawer-content li {
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.drawer-content li a {
+    display: block;
+    text-decoration: none;
+    color: rgb(9, 172, 236);
+    margin-right: 20px;
+    padding-left: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.drawer-content li a.active {
+    background-color: gray;
+    color: white;
+}
+
+.drawer-content li a:hover {
+    background-color: gray;
+    color: white;
+}
+
+.drawer-button {
+    margin: 10px;
+    margin-bottom: 20px;
+    background-color: RED;
+    color: WHITE;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
